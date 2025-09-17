@@ -1,6 +1,6 @@
 # Octozi SaaS Terms & Conditions
 
-**Effective Date:** \[Month DD, YYYY]
+**Effective Date:** \[18-Sep-2025]
 
 These Octozi SaaS Terms & Conditions (the “**Terms**”) are a legally binding agreement between Octozi, Inc. (“**Octozi**,” “**we**,” “**us**,” or “**our**”) and the entity that accepts these Terms (“**Customer**”). By accessing or using the Service, Customer agrees to these Terms. If Customer has executed a master services agreement or order form with Octozi (an “**MSA**”), the MSA will control over any conflicting terms herein.
 
